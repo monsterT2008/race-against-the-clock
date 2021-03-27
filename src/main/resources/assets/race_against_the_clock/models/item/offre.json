@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "race_against_the_clock:items/offering"
+  }
+}

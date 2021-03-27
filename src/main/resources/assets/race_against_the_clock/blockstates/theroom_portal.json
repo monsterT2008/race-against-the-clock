@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "race_against_the_clock:block/theroom_portal_ew"
+    },
+    "axis=x": {
+      "model": "race_against_the_clock:block/theroom_portal_ns"
+    }
+  }
+}

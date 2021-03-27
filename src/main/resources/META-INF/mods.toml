@@ -1,0 +1,82 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="race_against_the_clock"
+version="1.0.0"
+displayName="race against the clock"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="monsterT2008"
+
+[[dependencies.race_against_the_clock]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.race_against_the_clock]]
+    modId=" obfuscate"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.race_against_the_clock]]
+    modId=" curious API"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.race_against_the_clock]]
+    modId="mcreator_link"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.race_against_the_clock]]
+    modId=" patchouli"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.race_against_the_clock]]
+    modId=" arcanecraft II"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.race_against_the_clock]]
+    modId="JEI"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.race_against_the_clock]]
+    modId="just_enough_items"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.race_against_the_clock]]
+    modId="obfuscate"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.race_against_the_clock]]
+    modId="curios"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.race_against_the_clock]]
+    modId="patchouli"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.race_against_the_clock]]
+    modId="arcanecraft"
+    mandatory=false
+    ordering="NONE"
+    side="BOTH"
+

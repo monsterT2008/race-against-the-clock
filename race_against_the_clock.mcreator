@@ -1,0 +1,100 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "TheroomPlayerEntersDimension",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "theroom_player_enters_dimension",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Offre",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "offre"
+    },
+    {
+      "name": "TheroomCanTravelThroughPortal",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "theroom_can_travel_through_portal",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Theroom",
+      "type": "dimension",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "theroom"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_gb": {
+      "item.race_against_the_clock.offre": "Offering ",
+      "item.race_against_the_clock.theroom": "the room key"
+    },
+    "en_us": {
+      "item.race_against_the_clock.offre": "Offering ",
+      "item.race_against_the_clock.theroom": "the room key"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "race_against_the_clock",
+    "modName": "race against the clock",
+    "version": "1.0.0",
+    "author": "monsterT2008",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [
+      " obfuscate",
+      " curious API",
+      " patchouli",
+      " arcanecraft II",
+      "JEI"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "just_enough_items",
+      "obfuscate",
+      "mcreator_link",
+      "curios",
+      "patchouli",
+      "arcanecraft"
+    ],
+    "currentGenerator": "forge-1.15.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.raceagainsttheclock",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
